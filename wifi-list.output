@@ -1,0 +1,22 @@
+IN-USE  BSSID              SSID                MODE   CHAN  RATE        SIGNAL  BARS  SECURITY 
+        A0:A3:F0:91:38:94  Atalaya_w           Infra  11    270 Mbit/s  87      ▂▄▆█  WPA2     
+        A0:A3:F0:91:38:96  Atalaya_w           Infra  36    270 Mbit/s  62      ▂▄▆_  WPA2     
+        C6:D4:A1:5A:5A:D4  Atalaya_isp_N       Infra  36    540 Mbit/s  49      ▂▄__  WPA2     
+*       00:25:9C:13:ED:C0  Atalaya_w_AC        Infra  149   405 Mbit/s  46      ▂▄__  WPA2     
+        02:25:9C:13:ED:BF  Atalaya_w_N         Infra  6     405 Mbit/s  44      ▂▄__  WPA2     
+        00:25:9C:13:ED:BF  Atalaya_farm_N      Infra  6     405 Mbit/s  44      ▂▄__  WPA2     
+        44:FE:3B:3F:3A:F9  MiFibra-3AF7        Infra  1     130 Mbit/s  42      ▂▄__  WPA2     
+        06:25:9C:13:ED:BF  guest               Infra  6     405 Mbit/s  42      ▂▄__  WPA2     
+        5A:FE:3B:3F:3A:FA  Invitado-3AF7       Infra  1     130 Mbit/s  39      ▂▄__  WPA2     
+        CC:D4:A1:9F:A9:0B  MOVISTAR_A90A       Infra  6     130 Mbit/s  35      ▂▄__  WPA2     
+        D8:FB:5E:64:B5:93  MOVISTAR_B592       Infra  1     130 Mbit/s  32      ▂▄__  WPA2     
+        62:FE:3B:3F:3A:FB  MiFibra-3AF7        Infra  104   540 Mbit/s  25      ▂___  WPA2     
+        62:FE:3B:3F:3A:F8  Invitado-3AF7       Infra  104   540 Mbit/s  25      ▂___  WPA2     
+        06:25:9C:13:ED:C0  guest_AC            Infra  149   405 Mbit/s  25      ▂___  WPA2     
+        C6:FB:5E:64:B5:A0  MOVISTAR_B592       Infra  48    540 Mbit/s  24      ▂___  WPA2     
+        44:FE:3B:3F:3A:FA  --                  Infra  104   540 Mbit/s  24      ▂___  WPA2     
+        02:25:9C:13:ED:C0  Atalaya_farm_AC     Infra  149   405 Mbit/s  24      ▂___  WPA2     
+        78:81:02:44:E6:C1  vodafoneE6C0        Infra  10    130 Mbit/s  22      ▂___  WPA2     
+        D8:FB:5E:64:B5:A0  MOVISTAR_PLUS_B592  Infra  48    540 Mbit/s  22      ▂___  WPA2     
+        44:FE:3B:FE:F9:7B  --                  Infra  64    540 Mbit/s  20      ▂___  WPA2     
+        62:FE:3B:FE:F9:78  MiFibra-F978        Infra  64    540 Mbit/s  20      ▂___  WPA2     
